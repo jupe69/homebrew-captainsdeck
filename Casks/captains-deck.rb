@@ -1,8 +1,8 @@
 cask "captains-deck" do
-  version "1.0.8"
-  sha256 "7375e0ea351c1f9d0f7bd07eeec342e57ea2728126666b02de949d88185e6772"
+  version "1.4.13"
+  sha256 "2a57f9a6628a57e93e92bba2dfd96dddb0573966cb9990cb1b9918d78712fa91"
 
-  url "https://captains-deck.com/downloads/CaptainsDeck.dmg"
+  url "https://captains-deck.com/downloads/CaptainsDeck-#{version}.dmg"
   name "Captain's Deck"
   desc "Dual-pane file manager for macOS inspired by Norton Commander"
   homepage "https://captains-deck.com/"
